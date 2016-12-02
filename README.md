@@ -7,5 +7,5 @@ Once the user is welcomed, the dealer deals the cards to the user and the AI.
 User is provided with the options to hit or stand based on his moves.
 After calculating the winner, the customized message will be shown to the user on the winner screen.
 
-Hope you all like this application
+Hope you all like this application.
 Any suggestions for the updation are warmly welcomed.
